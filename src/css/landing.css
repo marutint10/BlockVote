@@ -1,0 +1,24 @@
+body {
+  font-family: 'Arimo', serif!important;
+}
+
+
+
+.main-navigation {
+  float: right;
+}
+
+.jumbotron{
+  background-image: url("../img/banner.jpg");
+  background-size:cover;
+}
+
+#votingPage{
+  margin-top:95px;
+}
+
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
